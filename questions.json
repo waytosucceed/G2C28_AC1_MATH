@@ -1,0 +1,33 @@
+[
+  {
+    "questionNo": 1,
+    "question": "Fill in the result of subtraction in the empty boxes.",
+    "options":["2","0","1","0","",""],
+    "answers": ["2","0","1","0","1","0"]
+  },
+  {
+    "questionNo": 2,
+    "question": "Subtract  and fill in the answer in the empty boxes.",
+    "options":["2","1","1","1","",""],
+    "answers": ["2","1","1","1","1","0"]
+    
+  },
+  {
+    "questionNo": 3,
+    "question": "Subtract the given numbers and fill in the answer in the empty boxes.",
+    "options":["3","3","0","3","",""],
+    "answers": ["3","3","0","3","3","0"]
+  },
+  {
+    "questionNo": 4,
+    "question": "Subtract the given numbers and fill in the answer in the empty boxes.",
+    "options":["2","4","1","4","",""],
+    "answers": ["2","4","1","4","1","0"]
+  },
+  {
+    "questionNo": 5,
+    "question": "Subtract the given numbers and fill in the answer in the empty boxes.",
+    "options":["1","6","0","5","",""],
+    "answers": ["1","6","0","5","1","1"]
+  }
+]
